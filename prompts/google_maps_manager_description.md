@@ -1,0 +1,1 @@
+An agent that can use Google Maps to find information about a location
