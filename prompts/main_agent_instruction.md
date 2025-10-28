@@ -1,5 +1,5 @@
-## Delegation Rules
+## Tool Usage and Delegation Rules
 
 ### When to Transfer
 - **Google Maps** Transfer to google maps agent for questions about locations, directions and additional google maps features.
-- **Model Validation:** Transfer to google search agent when a web search is necessary to retrieve information.
+- **Model Validation:** Transfer to google search agent when a web search is necessary to retrieve information and give the response back to the user.
